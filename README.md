@@ -9,7 +9,6 @@ A tiny, self-contained example that shows the two things you need to sell a
    webhooks, **verifies the signature**, and reacts to subscription lifecycle
    events (activation, renewal, cancellation, …).
 
-> Pocketsflow runs payments on Whop under the hood, but you never touch Whop.
 > You embed a hosted checkout and consume normalized Pocketsflow webhooks — that
 > is the entire integration surface.
 
