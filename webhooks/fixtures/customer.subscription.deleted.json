@@ -1,0 +1,25 @@
+{
+  "subscription": {
+    "id": "6949918ee8d99b0e628103e0",
+    "customerId": "cus_8Qx2m1"
+  },
+  "subscriptionCustomer": {
+    "id": "6a43ce05fae6c4f0cb5a2193",
+    "status": "canceled",
+    "active": false,
+    "cancelAtPeriodEnd": false,
+    "paused": false
+  },
+  "customer": {
+    "email": "buyer@example.com",
+    "firstName": "Jane",
+    "lastName": "Buyer"
+  },
+  "status": "canceled",
+  "paymentMethod": null,
+  "portalUrl": "https://app.pocketsflow.com/portal/6949918ee8d99b0e628103e0/6a43ce05fae6c4f0cb5a2193",
+  "subscriptionCustomerId": "6a43ce05fae6c4f0cb5a2193",
+  "clientReferenceId": "your-user-id-123",
+  "metadata": { "plan": "pro" },
+  "webhookId": "6a43cd117e229e3568f9c9e2"
+}
